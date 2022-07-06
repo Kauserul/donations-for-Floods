@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Gentium+Book+Plus&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lobster&family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,800;0,900;1,100;1,200;1,400;1,500;1,600;1,700&family=Nunito:wght@400;500;700;900&family=Oswald:wght@200;300;400;500;600;700&family=PT+Serif:wght@700&family=Playfair+Display:wght@700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Sans+Pro:ital,wght@1,300&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: 'Gentium Book Plus', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-bannar{
+    background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.9)), url(donate-today-main/images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.top-bannar .situation{
+    text-align: center;
+    width: 55%;
+    padding-left: 260px;
+    padding-bottom: 180px;
+}
+
+.top-bannar .situation h1{
+    color: white;
+    font-size: 67px;
+    padding-top: 180px;
+    padding-bottom: 30px;
+}
+
+.top-bannar .situation p{
+    color: white;
+    padding-bottom: 50px;
+    font-size: 16px;
+}
+
+.top-bannar .situation .btn{
+    background: #FF5959;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: 600;
+    
+}
