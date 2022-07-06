@@ -241,3 +241,35 @@ footer p {
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
 }
+
+.recently-efforts{
+    margin: 100px 0;
+}
+
+.recently-efforts .dangerious-area{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 100px gray;
+}
+
+.recently-efforts .dangerious-area .image{
+    width: 100%;
+    margin-right: 50px;
+}
+
+.recently-efforts .dangerious-area .image img{
+    width: 100%;
+    height: 100%;
+}
+
+.recently-efforts .dangerious-area .midwest-floods h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+.recently-efforts .dangerious-area .midwest-floods p{
+    margin-bottom: 40px;
+    color: #888;
+}
