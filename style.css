@@ -37,7 +37,7 @@ body {
 }
 
 .top-bannar .situation p {
-    color: white;
+    color: rgb(221, 221, 221);
     padding-bottom: 50px;
     font-size: 16px;
 }
@@ -244,6 +244,7 @@ footer p {
 
 .recently-efforts{
     margin: 100px 0;
+    margin-bottom: 120px;
 }
 
 .recently-efforts .dangerious-area{
